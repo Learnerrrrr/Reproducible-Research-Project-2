@@ -1,6 +1,5 @@
 # Reproducible Research: Peer Assessment 2
-Jörg Mülller  
-10/20/2014  
+
 
 # US Weather Storm Data Analysis
 
